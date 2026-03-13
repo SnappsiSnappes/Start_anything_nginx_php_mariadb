@@ -68,7 +68,6 @@ $user = "root"; $pass = "root";
 📦 Start_anything_nginx_php_mysql
 ├── 📄 bash.bash                 # 🎯 Главный скрипт настройки
 ├── 📄 docker-compose.yml        # Конфиг с динамическими портами
-├── 📄 single_network_docker-compose.yml  # Альтернатива без внешней сети
 ├── 📄 composer.json             # Генерируется скриптом
 ├── 📄 index.php, head.php       # Точка входа и общий шаблон
 │
